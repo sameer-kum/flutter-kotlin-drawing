@@ -88,7 +88,7 @@ class _MyHomePageState extends State<MyHomePage> {
               if (_showNativeDesign) ...[
                 const SizedBox(height: 20),
                 const Text(
-                  'Here is your native design',
+                  'Here is your design from native',
                   style: TextStyle(fontWeight: FontWeight.bold, fontSize: 18),
                 ),
                 const SizedBox(height: 20),
