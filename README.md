@@ -73,3 +73,7 @@ Flutter normally draws everything itself (like a game engine). But sometimes, we
     *   `ComplexDrawingView.kt`: The artist that draws the speedometer (Canvas logic).
     *   `ComplexViewFactory.kt`: The machine that builds the view for Flutter.
     *   `MainActivity.kt`: The headquarters where everything is connected.
+
+## 🎥 Demo Video
+https://github.com/user-attachments/assets/12f42400-5066-498a-8014-56c5ed522482
+
